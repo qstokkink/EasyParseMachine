@@ -10,6 +10,9 @@ created EasyParseMachine.
 
 You can think of EPM as a parse tree with local states.
 
+See [JSONReader](https://github.com/qstokkink/EasyParseMachine/blob/master/src/test/JSONReader.java)
+for a complete example on how EPM can be used.
+
 ### State transitions
 There exist 7 state transitions, as specified in the following
 table and explained in their corresponding subsections.
